@@ -31,14 +31,12 @@ PRODUCT_PACKAGES := \
     Contacts \
     Home \
     HTMLViewer \
-    Phone \
     ApplicationsProvider \
     ContactsProvider \
     DownloadProvider \
     MediaProvider \
     PicoTts \
     SettingsProvider \
-    TelephonyProvider \
     TtsService \
     VpnServices \
     UserDictionaryProvider \

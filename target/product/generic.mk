@@ -22,17 +22,14 @@ PRODUCT_PACKAGES := \
     CarHome \
     DeskClock \
     AlarmProvider \
-    Bluetooth \
     Calculator \
     Calendar \
-    Camera \
     CertInstaller \
     DrmProvider \
     Email \
     Gallery3D \
     LatinIME \
     Launcher2 \
-    Mms \
     Music \
     Provision \
     Protips \
